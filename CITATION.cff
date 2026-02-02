@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Si utiliza este repositorio, por favor cítelo de la siguiente manera."
+title: "espaciociencia-scraper"
+abstract: >
+  Repositorio en R para la extracción y construcción de un dataset a partir
+  del buscador del sitio Espacio Ciencia, orientado a identificar
+  publicaciones que contienen el término 'ecosistema de ciencia'.
+authors:
+  - family-names: Aguilera-Manzor
+    given-names: Juan
+    affiliation: "Investigador independiente"
+repository-code: "https://github.com/aguileramanzor/espaciociencia-scraper"
+type: software
+license: GNU Affero General Public License v3.0
+keywords:
+  - scraping
+  - ciencia
+  - tecnologia
+  - ecosistema
+  - R
+date-released: 2026-02-02
+preferred-citation:
+  type: software
+  title: "espaciociencia-scraper"
+  authors:
+    - family-names: Aguilera-Manzor
+      given-names: Juan
+  year: 2026
+  url: "https://github.com/aguileramanzor/espaciociencia-scraper"
