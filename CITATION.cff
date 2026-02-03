@@ -6,6 +6,15 @@ authors:
   - family-names: Aguilera-Manzor
     given-names: Juan
 repository-code: "https://github.com/aguileramanzor/espaciociencia-scraper"
+doi: 10.5281/zenodo.18463197
 license: AGPL-3.0-only
 year: 2026
+preferred-citation:
+  type: software
+  title: "espaciociencia-scraper"
+  authors:
+    - family-names: Aguilera-Manzor
+      given-names: Juan
+  year: 2026
+  doi: 10.5281/zenodo.18463197
 
