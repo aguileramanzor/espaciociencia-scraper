@@ -1,0 +1,72 @@
+---
+title: "Ecosistema de ciencia: polisemia en títulos de publicaciones chilenas"
+author: "Juan Aguilera-Manzor"
+date: "`r format(Sys.Date(), '%Y-%m-%d')`"
+output:
+  pdf_document:
+    toc: true
+    number_sections: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  message = FALSE,
+  warning = FALSE
+)
+```
+
+# Introducción
+
+*Este documento corresponde a un borrador de trabajo en desarrollo. Su contenido es preliminar y no representa una versión final para circulación académica ni para envío a revista.*
+
+(Propósito: problematizar el uso de “ecosistema de ciencia” como concepto intuitivo pero inestable; plantear la distinción entre ecosistemas naturales y metáfora sociotécnica; presentar la contribución del artículo y el enfoque general.)
+
+# Ecosistemas, ciencia y metáforas: antecedentes teóricos
+
+(Propósito: justificar teóricamente la metáfora ecosistémica en ciencia/innovación; dialogar con literatura CTS sobre performatividad y lenguaje en gobernanza; sostener la pertinencia de una tipología basada en títulos.)
+
+# El concepto de “ecosistema” en el contexto chileno
+
+(Propósito: situar el problema en Chile a partir de la circulación institucional del término; delimitar el aporte del artículo ante la posible falta de estudios específicos nacionales.)
+
+# Estrategia analítica y corpus
+
+Este estudio utiliza un corpus construido mediante scraping del buscador de Espacio Ciencia (espaciociencia.anid.cl) a partir del término “ecosistema de ciencia”. En esta primera etapa, el análisis se limita a los títulos de las publicaciones, entendidos como dispositivos de visibilidad y condensación semántica. El objetivo es construir una tipología preliminar de usos del concepto “ecosistema” en publicaciones chilenas presentes en Espacio Ciencia, distinguiendo entre usos vinculados a ecosistemas naturales y usos donde “ecosistema” opera como metáfora sociotécnica asociada a redes de actores e institucionalidad científica. Las categorías ambiguas se mantienen como resultado analítico y se consideran candidatas a revisión en una segunda etapa mediante la “descripción” disponible en las páginas de detalle de las publicaciones presentes en Espacio Ciencia.
+
+# Justificación metodológica
+
+(Propósito: defender el análisis de títulos como “dispositivo de visibilidad”; explicitar alcances y limitaciones del enfoque.)
+
+# Tipología de usos del concepto “ecosistema” en títulos
+## Ecosistema natural
+
+(Definición preliminar: “ecosistema” como sistema biofísico/ambiental/ecológico.)
+
+## Ecosistema sociotécnico de ciencia
+
+(Definición preliminar: “ecosistema” como metáfora organizacional de actores e interdependencias vinculadas a la producción científica.)
+
+## Ecosistema híbrido o ambiguo
+
+(Definición preliminar: títulos donde no es posible decidir con claridad entre uso natural y sociotécnico.)
+
+# Resultados exploratorios del corpus (títulos)
+
+## Distribución general de categorías
+
+## Ejemplos representativos por categoría
+
+## Casos ambiguos y criterios de revisión
+
+# Discusión: polisemia, metáfora y performatividad
+
+(Propósito: conectar los patrones observados con el marco teórico; discutir implicancias CTS de la polisemia del concepto “ecosistema” en el campo científico.)
+
+# Conclusiones y proyecciones
+
+(Propósito: sintetizar hallazgos; reconocer límites; proponer siguientes pasos: revisión de descripciones, ampliación del corpus, y análisis comparativo.)
+
+# Referencias
+
+(Aquí se integrará la bibliografía final.)
