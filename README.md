@@ -1,4 +1,4 @@
-# espaciociencia-scraper
+# EspacioCiencia-scraper
 Este repositorio contiene un scraper desarrollado en R para construir un dataset a partir del buscador del sitio Espacio Ciencia (https://espaciociencia.anid.cl/), para identificar publicaciones según el término ecosistema de ciencia.
 
 El proyecto está diseñado bajo criterios de reproducibilidad, utilizando renv para el control del entorno y una estructura estándar compatible con GitHub.
